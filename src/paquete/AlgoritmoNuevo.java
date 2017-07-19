@@ -12,12 +12,13 @@ public class AlgoritmoNuevo {
 			
 			do{
 			System.out.println("Tu nota es " + nota);	
-				if(i>5)
+				if(i>20)
 				{
 					break;
 				}
 				i++;
 			}while(copia);
+			System.out.println("Wiiiiii");
 	}
 	
 	public static void imprimirPrueba(){
