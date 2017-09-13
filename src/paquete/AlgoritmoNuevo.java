@@ -11,7 +11,7 @@ public class AlgoritmoNuevo {
 			boolean copia = true;
 			
 			do{
-			System.out.println("Tu nota es " + nota);	
+			System.out.println("Tu nota es jiji " + nota);	
 				if(i>20)
 				{
 					break;
